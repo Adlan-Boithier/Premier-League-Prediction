@@ -20,3 +20,11 @@ In this project, we'll predict the winner of football matches in the English Pre
 - Include a broader range of features.
 - Explore alternative modeling techniques beyond the random forest approach.
 - Scrape additional variables, such as referee statistics and participation in other competitions outside the Premier League.
+
+## **Resume**
+- Developed a predictive analytics model for Premier League team performance using a random forest algorithm.
+- Cleaned and prepared data utilizing the pandas library for effective data manipulation.
+- Made match outcome predictions using scikit-learn to leverage machine learning capabilities.
+- Enhanced model accuracy by implementing a rolling averages method, achieving a 15% increase in precision.
+- Evaluated prediction errors and made iterative improvements to refine the model.
+Achieved an additional 5% precision gain in scenarios where a team was forecasted to win against opponents predicted to draw or lose.
